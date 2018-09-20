@@ -1,0 +1,11 @@
+﻿  RtDataAdapter.cpp
+d:\work\rcp\thrift_cpp\thrift_cpp\gen-cpp\rtdataadapter.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  RtDataAdapter_server.skeleton.cpp
+d:\work\rcp\thrift_cpp\thrift_cpp\gen-cpp\rtdataadapter_server.skeleton.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\work\rcp\thrift_cpp\thrift_cpp\gen-cpp\rtdataadapter.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\work\rcp\thrift_cpp\thrift_cpp\gen-cpp\rtdataadapter_server.skeleton.cpp(161): warning C4244: “参数”: 从“int64_t”转换到“long”，可能丢失数据
+d:\work\rcp\thrift_cpp\thrift_cpp\gen-cpp\rtdataadapter_server.skeleton.cpp(229): warning C4244: “参数”: 从“int64_t”转换到“long”，可能丢失数据
+  Rtdb_constants.cpp
+  Rtdb_types.cpp
+  正在生成代码...
+  Thrift_Cpp.vcxproj -> D:\work\RCP\Thrift_Cpp\Debug\Thrift_Cpp.exe

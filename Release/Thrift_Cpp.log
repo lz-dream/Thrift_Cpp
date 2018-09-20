@@ -1,0 +1,79 @@
+﻿  RtDataAdapter.cpp
+d:\work\rcp\thrift_cpp\thrift_cpp\gen-cpp\rtdataadapter.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  RtDataAdapter_server.skeleton.cpp
+d:\work\rcp\thrift_cpp\thrift_cpp\gen-cpp\rtdataadapter_server.skeleton.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\work\rcp\thrift_cpp\thrift_cpp\gen-cpp\rtdataadapter.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\work\rcp\thrift_cpp\thrift_cpp\gen-cpp\rtdataadapter_server.skeleton.cpp(161): warning C4244: “参数”: 从“int64_t”转换到“long”，可能丢失数据
+d:\work\rcp\thrift_cpp\thrift_cpp\gen-cpp\rtdataadapter_server.skeleton.cpp(229): warning C4244: “参数”: 从“int64_t”转换到“long”，可能丢失数据
+  Rtdb_constants.cpp
+  Rtdb_types.cpp
+libthrift.lib(TConcurrentClientSyncInfo.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“2”不匹配值“0”(RtDataAdapter.obj 中)
+libthrift.lib(TConcurrentClientSyncInfo.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MT_StaticRelease”(RtDataAdapter.obj 中)
+libthrift.lib(TConcurrentClientSyncInfo.obj) : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/OPT:ICF”规范)
+libthrift.lib(TOutput.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“2”不匹配值“0”(RtDataAdapter.obj 中)
+libthrift.lib(TOutput.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MT_StaticRelease”(RtDataAdapter.obj 中)
+libthrift.lib(TApplicationException.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“2”不匹配值“0”(RtDataAdapter.obj 中)
+libthrift.lib(TApplicationException.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MT_StaticRelease”(RtDataAdapter.obj 中)
+libthrift.lib(TBufferTransports.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“2”不匹配值“0”(RtDataAdapter.obj 中)
+libthrift.lib(TBufferTransports.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MT_StaticRelease”(RtDataAdapter.obj 中)
+libthrift.lib(TServerSocket.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“2”不匹配值“0”(RtDataAdapter.obj 中)
+libthrift.lib(TServerSocket.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MT_StaticRelease”(RtDataAdapter.obj 中)
+libthrift.lib(TTransportException.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“2”不匹配值“0”(RtDataAdapter.obj 中)
+libthrift.lib(TTransportException.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MT_StaticRelease”(RtDataAdapter.obj 中)
+libthrift.lib(StdThreadFactory.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“2”不匹配值“0”(RtDataAdapter.obj 中)
+libthrift.lib(StdThreadFactory.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MT_StaticRelease”(RtDataAdapter.obj 中)
+libthrift.lib(ThreadManager.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“2”不匹配值“0”(RtDataAdapter.obj 中)
+libthrift.lib(ThreadManager.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MT_StaticRelease”(RtDataAdapter.obj 中)
+libthrift.lib(TProtocol.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“2”不匹配值“0”(RtDataAdapter.obj 中)
+libthrift.lib(TProtocol.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MT_StaticRelease”(RtDataAdapter.obj 中)
+libthrift.lib(TThreadPoolServer.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“2”不匹配值“0”(RtDataAdapter.obj 中)
+libthrift.lib(TThreadPoolServer.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MT_StaticRelease”(RtDataAdapter.obj 中)
+libthrift.lib(BoostMutex.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“2”不匹配值“0”(RtDataAdapter.obj 中)
+libthrift.lib(BoostMutex.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MT_StaticRelease”(RtDataAdapter.obj 中)
+libthrift.lib(BoostMonitor.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“2”不匹配值“0”(RtDataAdapter.obj 中)
+libthrift.lib(BoostMonitor.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MT_StaticRelease”(RtDataAdapter.obj 中)
+libthrift.lib(GetTimeOfDay.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“2”不匹配值“0”(RtDataAdapter.obj 中)
+libthrift.lib(GetTimeOfDay.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MT_StaticRelease”(RtDataAdapter.obj 中)
+libthrift.lib(TWinsockSingleton.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“2”不匹配值“0”(RtDataAdapter.obj 中)
+libthrift.lib(TWinsockSingleton.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MT_StaticRelease”(RtDataAdapter.obj 中)
+libthrift.lib(SocketPair.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“2”不匹配值“0”(RtDataAdapter.obj 中)
+libthrift.lib(SocketPair.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MT_StaticRelease”(RtDataAdapter.obj 中)
+libthrift.lib(TSocket.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“2”不匹配值“0”(RtDataAdapter.obj 中)
+libthrift.lib(TSocket.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MT_StaticRelease”(RtDataAdapter.obj 中)
+libthrift.lib(Util.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“2”不匹配值“0”(RtDataAdapter.obj 中)
+libthrift.lib(Util.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MT_StaticRelease”(RtDataAdapter.obj 中)
+libthrift.lib(TServerFramework.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“2”不匹配值“0”(RtDataAdapter.obj 中)
+libthrift.lib(TServerFramework.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MT_StaticRelease”(RtDataAdapter.obj 中)
+libthrift.lib(TConnectedClient.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“2”不匹配值“0”(RtDataAdapter.obj 中)
+libthrift.lib(TConnectedClient.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MT_StaticRelease”(RtDataAdapter.obj 中)
+libboost_thread-vc141-mt-sgd-x32-1_68.lib(thread.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“2”不匹配值“0”(RtDataAdapter.obj 中)
+libboost_thread-vc141-mt-sgd-x32-1_68.lib(thread.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MT_StaticRelease”(RtDataAdapter.obj 中)
+libboost_thread-vc141-mt-sgd-x32-1_68.lib(tss_pe.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“2”不匹配值“0”(RtDataAdapter.obj 中)
+libboost_thread-vc141-mt-sgd-x32-1_68.lib(tss_pe.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MT_StaticRelease”(RtDataAdapter.obj 中)
+libboost_system-vc141-mt-sgd-x32-1_68.lib(error_code.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“2”不匹配值“0”(RtDataAdapter.obj 中)
+libboost_system-vc141-mt-sgd-x32-1_68.lib(error_code.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MT_StaticRelease”(RtDataAdapter.obj 中)
+libcpmtd.lib(stdthrow.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“2”不匹配值“0”(RtDataAdapter.obj 中)
+libcpmtd.lib(stdthrow.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MT_StaticRelease”(RtDataAdapter.obj 中)
+LINK : warning LNK4098: 默认库“LIBCMTD”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+libthrift.lib(BoostMonitor.obj) : error LNK2001: 无法解析的外部符号 __CrtDbgReport
+libthrift.lib(TSocket.obj) : error LNK2001: 无法解析的外部符号 __CrtDbgReport
+libthrift.lib(TServerFramework.obj) : error LNK2001: 无法解析的外部符号 __CrtDbgReport
+libthrift.lib(TConnectedClient.obj) : error LNK2001: 无法解析的外部符号 __CrtDbgReport
+libthrift.lib(TServerSocket.obj) : error LNK2001: 无法解析的外部符号 __CrtDbgReport
+libthrift.lib(ThreadManager.obj) : error LNK2001: 无法解析的外部符号 __CrtDbgReport
+libthrift.lib(TProtocol.obj) : error LNK2001: 无法解析的外部符号 __CrtDbgReport
+libthrift.lib(BoostMutex.obj) : error LNK2001: 无法解析的外部符号 __CrtDbgReport
+libthrift.lib(TConcurrentClientSyncInfo.obj) : error LNK2001: 无法解析的外部符号 __CrtDbgReport
+libthrift.lib(TOutput.obj) : error LNK2001: 无法解析的外部符号 __CrtDbgReport
+libthrift.lib(TApplicationException.obj) : error LNK2001: 无法解析的外部符号 __CrtDbgReport
+libthrift.lib(TBufferTransports.obj) : error LNK2001: 无法解析的外部符号 __CrtDbgReport
+libthrift.lib(TOutput.obj) : error LNK2001: 无法解析的外部符号 __calloc_dbg
+libthrift.lib(TSocket.obj) : error LNK2001: 无法解析的外部符号 __calloc_dbg
+libthrift.lib(TOutput.obj) : error LNK2001: 无法解析的外部符号 __free_dbg
+libthrift.lib(TSocket.obj) : error LNK2001: 无法解析的外部符号 __free_dbg
+libthrift.lib(TOutput.obj) : error LNK2001: 无法解析的外部符号 __malloc_dbg
+libthrift.lib(TSocket.obj) : error LNK2001: 无法解析的外部符号 __malloc_dbg
+libboost_thread-vc141-mt-sgd-x32-1_68.lib(thread.obj) : error LNK2001: 无法解析的外部符号 __CrtDbgReportW
+libboost_system-vc141-mt-sgd-x32-1_68.lib(error_code.obj) : error LNK2001: 无法解析的外部符号 __CrtDbgReportW
+libcpmtd.lib(stdthrow.obj) : error LNK2001: 无法解析的外部符号 __CrtDbgReportW
+D:\work\RCP\Thrift_Cpp\Release\Thrift_Cpp.exe : fatal error LNK1120: 5 个无法解析的外部命令
